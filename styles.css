@@ -1,0 +1,56 @@
+body
+{
+  padding:0;
+  margin:0;
+  font-family:"Lucida Console", "Courier New", monospace;
+  background:linear-gradient(45deg, blue,green)
+  
+}
+#animation{ 
+  width:20%;
+  hight:auto;
+}
+#animation{
+  width:20%;
+  hight:auto;
+}
+header{
+  color:white;
+  pading:10px;
+}
+nav ul {
+list-style:none;
+  text-align:center;
+}
+nav ul li{
+  display:inline;
+  margin:10px;
+}
+nav ul li a {
+  text-decoration:none;
+color:white;
+  font-weight:bold;
+}
+#about{
+  padding:20px;
+background:linear-gradient(45deg, white,green);
+margin:10px;
+  border-radius:10px;
+  box-shadow:0 4px 6px rgba(0,0,0, 1);
+}
+
+#projects{
+  padding:20px;
+background:linear-gradient(45deg, white,green);
+margin:10px;
+  border-radius:10px;
+  box-shadow:0 4px 6px rgba(0,0,0, 1);
+}
+#contact{
+  padding:20px;
+background:linear-gradient(45deg, white,green);
+margin:10px;
+  border-radius:10px;
+  box-shadow:0 4px 6px rgba(0,0,0, 1);
+}
+
